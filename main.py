@@ -5,7 +5,7 @@ import time
 
 # Constants
 NAMES = 10  # Amount of usernames to save
-LENGTH = 5  # Length of usernames
+LENGTH = 4  # Length of usernames
 FILE = 'valid.txt'  # Automatically creates file
 BIRTHDAY = '1999-04-20'  # User's birthday for validation
 
